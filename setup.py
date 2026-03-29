@@ -12,7 +12,7 @@ setup(
     description="Causal Mediation Analysis for Algorithmic Fairness in Credit Decisions",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/rdmurugan/causalfair",
+    url="https://github.com/rdmurugan/causalfair-repo",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

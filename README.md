@@ -28,7 +28,7 @@ pip install causalfair
 Or install from source:
 
 ```bash
-git clone https://github.com/rdmurugan/causalfair.git
+git clone https://github.com/rdmurugan/causalfair-repo.git
 cd causalfair
 pip install -e .
 ```

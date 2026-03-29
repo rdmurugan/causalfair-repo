@@ -32,6 +32,6 @@ dev = ["pytest>=7.0", "pytest-cov", "black", "flake8"]
 viz = ["matplotlib>=3.5", "seaborn>=0.12"]
 
 [project.urls]
-Homepage = "https://github.com/rdmurugan/causalfair"
+Homepage = "https://github.com/rdmurugan/causalfair-repo"
 Paper = "https://arxiv.org/abs/XXXX.XXXXX"
-Issues = "https://github.com/rdmurugan/causalfair/issues"
+Issues = "https://github.com/rdmurugan/causalfair-repo/issues"
