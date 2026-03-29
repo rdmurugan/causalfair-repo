@@ -77,7 +77,6 @@ Approximately **77% of the racial denial gap** flows through financial mediators
 @article{rajamanickam2026decomposing,
   title={Decomposing Discrimination: Causal Mediation Analysis for AI-Driven Credit Decisions},
   author={Rajamanickam, Duraimurugan},
-  journal={arXiv preprint},
   year={2026}
 }
 ```
